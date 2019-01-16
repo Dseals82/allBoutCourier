@@ -34,6 +34,14 @@ a {
   color: #F0AE00;
 }
 
+#blackend {
+  color: black;
+}
+
+#shadow {
+  text-shadow: 2px 3px 6px #000000;
+}
+
 a:hover {
   color: #F0AE00;
 }
