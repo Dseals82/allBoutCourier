@@ -30,6 +30,10 @@ a {
   transition: all 0.2s;
 }
 
+#yellowish {
+  color: #F0AE00;
+}
+
 a:hover {
   color: #F0AE00;
 }
