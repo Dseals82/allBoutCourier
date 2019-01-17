@@ -38,10 +38,6 @@ a {
   color: black;
 }
 
-#shadow {
-  text-shadow: 2px 3px 6px #000000;
-}
-
 a:hover {
   color: #F0AE00;
 }
@@ -52,7 +48,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .bg-primary {
