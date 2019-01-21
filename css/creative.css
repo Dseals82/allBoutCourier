@@ -38,6 +38,13 @@ a {
   color: black;
 }
 
+.background-photo {
+  background-image: url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiPzLvqy_PfAhWoT98KHYOgBQQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.manxeon.com%2F360-blog%2Flist-of-courier-service-in-malaysia-delivery-express-carriers-dispatch-services&psig=AOvVaw1SI_-ksfpF1s_Ew5uzBheR&ust=1547770959075237);
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 a:hover {
   color: #F0AE00;
 }
